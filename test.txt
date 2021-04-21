@@ -1,1 +1,2 @@
-just test-test.txt
+
+only test for test.txt
